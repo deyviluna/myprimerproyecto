@@ -1,1 +1,1 @@
-# myprimerproyecto
+# myprimerproyecto de python donde voy a crear cosas increibles para predecir y analizar tendencias del mercado en la redes sociales y la mineria de de datos
